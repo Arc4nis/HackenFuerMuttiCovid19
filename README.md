@@ -12,13 +12,13 @@ all help is welcome!
 2. Connect and visualize government response with corona cases of all countries
 3. Analyse governemt response impact on virus growth rates and predict and model effectivness of different responses
 
-#1.1
+# 1.1
 Collect Data scraping e.g. wikipedia
 
-#1.2
+# 1.2
 Collect data in csv
 
 
-##Usefull information 
+## Usefull information 
 https://www.zeit.de/gesellschaft/zeitgeschehen/2020-03/coronavirus-ueberblick-eu-grenzkontrolle-ausgangssperre-bussgelder
 We want data like this, more detailed and what time it came into effect
