@@ -1,4 +1,4 @@
-### HackenFuerMuttiCovid19
+# HackenFuerMuttiCovid19
 Data collection, analysis and visualization of government responses to coronavirus pandemic 2020
 
 Participating in https://wirvsvirushackathon.org/
@@ -14,13 +14,13 @@ All help is welcome!
 
 ## Steps
 
-# 1.1
+### 1.1
 Collect Data scraping 
 - wikipedia e.g. https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Korea
 - sport events that were canceled
 - rss feed dpa
 
-# 1.2
+### 1.2
 Collect data in csv
 
 
