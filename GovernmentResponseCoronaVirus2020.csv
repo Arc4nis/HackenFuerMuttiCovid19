@@ -1,2 +1,1 @@
-Country,GovernmentResponse,DateComeIntoEffect,DateExpectedToEnd,DateTerminated,Typ,Description,LinkToSource
-Germany,shutdown,26/02/20,02/03/20,?,shutdown,shutdown of schools and schwimming pools, libraries and the town hall,https://rp-online.de/nrw/staedte/duesseldorf/coronavirus-in-nrw-sechs-coronavirus-faelle-in-nrw-karneval-und-kitas-im-fokus_aid-49191227
+Country,GovernmentResponse,DateComeIntoEffect,DateExpectedToEnd,DateTerminated,Typ,Description,LinkToSource,Target
