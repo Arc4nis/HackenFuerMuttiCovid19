@@ -29,6 +29,12 @@ Example data structure
 |   Belgium	   | quarantine lockdown                   |     2020-03-18               |  2020-04-05  |  lockdown     | nationwide lockdown... | https://www.theguardian.com/world/gallery/2020/mar/18/belgium-enters-lockdown-over-coronavirus-crisis-in-pictures     | nationwide    |
 
 
+
+
+Problems and Ideads to work on: 
+`https://docs.google.com/spreadsheets/d/1BG8hTdT5hAoZdzdVSOXrmrYjIkzjVLwYz7qtaYoQjG4/edit?usp=sharing`
+
+
 ## Useful information 
 https://www.zeit.de/gesellschaft/zeitgeschehen/2020-03/coronavirus-ueberblick-eu-grenzkontrolle-ausgangssperre-bussgelder
 We want data like this, more detailed and at what time it came into effect
