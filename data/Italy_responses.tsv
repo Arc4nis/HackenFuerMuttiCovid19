@@ -1,0 +1,5 @@
+	Country	GovernmentResponse	Target	DateComeIntoEffect	DateExpectedToEnd	DateTerminated	Type	Description	Source
+0	Italy	suspend flights to and from	China	2020-01-31			travel ban	Italian government suspended all flights to and from China	https://www.thelocal.it/20200131/italy-suspends-all-china-flights-after-coronavirus-cases-confirmed-in-rome/
+1	Italy	expanded the quarantine	Lombardy and 14 other northern provinces	2020-03-08			quarantine	Prime Minister Giuseppe Conte expanded the quarantine to all of Lombardy and 14 other northern provinces	https://www.bbc.com/news/world-middle-east-51787238
+2	Italy	expanded the quarantine	all of Italy	2020-03-09			lockdown	Prime Minister Giuseppe Conte expanded the quarantine to all of Italy	https://www.bbc.co.uk/news/world-europe-51810673
+3	Italy	prohibited nearly all commercial activity	all of Italy	2020-03-11			prohibited	 Conte prohibited nearly all commercial activity except for supermarkets and pharmacies.	https://www.washingtonpost.com/world/europe/merkel-coronavirus-germany/2020/03/11/e276252a-6399-11ea-8a8e-5c5336b32760_story.html
