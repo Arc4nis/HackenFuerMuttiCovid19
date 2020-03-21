@@ -50,5 +50,6 @@ https://docs.google.com/spreadsheets/d/1BG8hTdT5hAoZdzdVSOXrmrYjIkzjVLwYz7qtaYoQ
 ## Useful information 
 https://www.zeit.de/gesellschaft/zeitgeschehen/2020-03/coronavirus-ueberblick-eu-grenzkontrolle-ausgangssperre-bussgelder
 We want data like this, more detailed and at what time it came into effect
+https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures
 
 Google docs of related project: https://docs.google.com/spreadsheets/d/1CW99DTTWFO5T3oiERzRaHGqpAQ_J-3PfwaMibUgJp4Y/edit#gid=262317549
