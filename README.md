@@ -33,7 +33,7 @@ Example data structure
 
 
 Problems and Ideads to work on: 
-`https://docs.google.com/spreadsheets/d/1BG8hTdT5hAoZdzdVSOXrmrYjIkzjVLwYz7qtaYoQjG4/edit?usp=sharing`
+https://docs.google.com/spreadsheets/d/1BG8hTdT5hAoZdzdVSOXrmrYjIkzjVLwYz7qtaYoQjG4/edit?usp=sharing
 
 
 ## Useful information 
