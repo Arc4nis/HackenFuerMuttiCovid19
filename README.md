@@ -21,7 +21,12 @@ Data scraping
 - RSS feed dpa
 
 ### 1.2
-Collect data in csv
+Collect data
+
+Example data structure
+| Country | GovernmentResponse | DateComeIntoEffect | DateExpectedToEnd | Type | Description | Link | Level |
+|---------|--------------------|--------------------|-------------------|------|-------------|------|------ |
+|   Belgium	   | quarantine lockdown                   |     2020-03-18               |  2020-04-05  |  lockdown     | nationwide lockdown... | https://www.theguardian.com/world/gallery/2020/mar/18/belgium-enters-lockdown-over-coronavirus-crisis-in-pictures     | nationwide    |
 
 
 ## Useful information 
