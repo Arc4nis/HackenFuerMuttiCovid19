@@ -25,10 +25,10 @@ Data scraping
 Collect data
 
 Example data structure
-| Country | GovernmentResponse | DateComeIntoEffect | DateExpectedToEnd | Type | Description | Link | Level |
-|---------|--------------------|--------------------|-------------------|------|-------------|------|------ |
-|   Belgium	   | quarantine lockdown                   |     2020-03-18               |  2020-04-05  |  lockdown     | nationwide lockdown... | https://www.theguardian.com/world/gallery/2020/mar/18/belgium-enters-lockdown-over-coronavirus-crisis-in-pictures     | nationwide    |
-|   Germany	   |  curfew             |     2020-03-20              |  ?  |  lockdown     | Bavaria was the first state to declare a curfew. Fines of up to €25,000  | https://www.thelocal.de/20200320/bavaria-becomes-first-german-state-to-impose-lockdown    | Bavaria   |
+| Country | GovernmentResponse | DateComeIntoEffect | DateExpectedToEnd | DateTerminated | Type | Description | Link | Level |
+|---------|--------------------|--------------------|-------------------|----------------|------|-------------|------|------ |
+|   Belgium	   | quarantine lockdown                   |     2020-03-18               |  2020-04-05  | ? |  lockdown     | nationwide lockdown... | https://www.theguardian.com/world/gallery/2020/mar/18/belgium-enters-lockdown-over-coronavirus-crisis-in-pictures     | nationwide    |
+|   Germany	   |  curfew             |     2020-03-20              |  ?  | ? |  lockdown     | Bavaria was the first state to declare a curfew. Fines of up to €25,000  | https://www.thelocal.de/20200320/bavaria-becomes-first-german-state-to-impose-lockdown    | Bavaria   |
 
 
 
