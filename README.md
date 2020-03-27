@@ -48,6 +48,13 @@ https://docs.google.com/spreadsheets/d/1BG8hTdT5hAoZdzdVSOXrmrYjIkzjVLwYz7qtaYoQ
 
 
 ## Useful information 
+
+
+COVID-19 Containment measures data
+by the COVID-19 Forecasting project (University of Oxford):
+https://www.notion.so/977d5e5be0434bf996704ec361ad621d?v=fe54f89ca9e04ac799af42b39e1efc4b
+
+
 https://www.zeit.de/gesellschaft/zeitgeschehen/2020-03/coronavirus-ueberblick-eu-grenzkontrolle-ausgangssperre-bussgelder
 We want data like this, more detailed and at what time it came into effect
 https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures
